@@ -1,5 +1,3 @@
-// This is the main class for sales app
-
 public class HelloWorld {
 
     public static void main(String[] args) {
